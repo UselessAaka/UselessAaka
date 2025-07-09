@@ -1,11 +1,12 @@
+<div align="center">
+
 ## Hi there 👋
 
+- 🌱 I’m currently learning Data Structure and Algorithms and also Cloud Computing.
 
-- 🌱 I’m currently learning Data Structure and Algoriths and also Cloud Computing.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakarsh-jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakarsh13jha@gmail.com) 
+## 🌐 Socials:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakarsh-jha) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aakarsh13jha@gmail.com) 
 
 ### 💻 Tech Stack
 
@@ -44,7 +45,6 @@
 ![Shell Scripting](https://img.shields.io/badge/shell%20scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=UselessAaka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=UselessAaka&theme=dark&hide_border=false)<br/>
@@ -53,7 +53,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UselessAaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=UselessAaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
